@@ -5,3 +5,19 @@
 #proyecto1 {
     background-image: url('unsplash-photo-1.jpg');
 }
+body {background-color:paleturquoise;}
+.hero-image {
+    background-image: url("assets/logoweb.avif" ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+<style>
+body {
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
